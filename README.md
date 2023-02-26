@@ -73,7 +73,7 @@ add the following code to your composer.json file
     "repositories": [
         {
             "type" : "vcs",
-            "url"  : "https://github.com/findsome-cards/client-api.git"
+            "url"  : "https://github.com/findsomecards/client-api.git"
         }
     ]
 }
