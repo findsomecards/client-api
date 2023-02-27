@@ -6,4 +6,5 @@ final class CheckerType
 {
     const TRY2 = 1;
     const LUX = 2;
+    const AUTH = 3;
 }
